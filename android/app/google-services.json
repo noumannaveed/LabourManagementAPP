@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959850085810",
+    "project_id": "merizameen-238e7",
+    "storage_bucket": "merizameen-238e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959850085810:android:7445746e0f4dc72dbc38ab",
+        "android_client_info": {
+          "package_name": "com.merizameen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959850085810-lff5nd05q7l06ufidesjabnsg34834r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiJn82D11u2xgpPi0E8tOdpp1QqdacHJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959850085810-lff5nd05q7l06ufidesjabnsg34834r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
